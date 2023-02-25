@@ -1,16 +1,18 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Isaiah Clifford Opoku
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Peter Samuel Oche (Code Preacher)
 =============================================================================================================================================
 
-Software Developer | MERN Stack | Typescript
+Software Developer | Scrum Master | AWS Cloud Developer
 --------------------------------------------
 
-I am a software developer with expertise in the MERN stack (MongoDB, Express.js, React, Node.js) and experience using TypeScript. I have a strong understanding of web development and am able to build efficient and scalable full-stack applications. I am highly motivated and continually seeking to improve my skills and stay current with the latest technologies.
+I am a software developer with expertise with experience as a fullstack developer. I have a strong understanding of web development and am able to build efficient and scalable full-stack applications. I am highly motivated and continually seeking to improve my skills and stay current with the latest technologies.
+
+I am also a Scrum master and an AWS cloud developer, i manage projects and also deploy projects on cloud, using several infastructures and plaforms. I Teach all computer science related courses online as an online tutor. 
 
 * 🌍  I'm based in Nigeria
 * 🖥️  See my portfolio at [https://iamcodepreacher.vercel.app/](https://iamcodepreacher.vercel.app/)
 * ✉️  You can contact me at [iamcodepreacher@gmail.com](mailto:iamcodepreacher@gmail.com)
-* 🤝  I'm open to collaborating on JavaScript Project
-* ⚡  I'm passionate about software development
+* 🤝  I'm open to collaborating on Any Project
+* ⚡  I'm passionate about solving problems
 
 <a href="https://www.github.com/iamcodepreacher" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/iamcodepreacher?logo=github&style=for-the-badge&color=0891b2&labelColor=ffffff" /></a><a href="https://www.twitter.com/iamcodepreacher" target="_blank" rel="noreferrer"><img
