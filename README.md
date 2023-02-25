@@ -51,7 +51,7 @@ src="https://img.shields.io/twitter/follow/iamcodepreacher?logo=twitter&style=fo
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Clifftech123"><img src="https://github-readme-stats.vercel.app/api?username=iamcodepreacher&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=0f172a&icon_color=0891b2&bg_color=ffffff&hide_border=true&show_icons=true" alt="Code Preacher's GitHub stats" /></a>
+<a href="http://www.github.com/iamcodepreacher"><img src="https://github-readme-stats.vercel.app/api?username=iamcodepreacher&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=0f172a&icon_color=0891b2&bg_color=ffffff&hide_border=true&show_icons=true" alt="Code Preacher's GitHub stats" /></a>
 
 <a href="http://www.github.com/Clifftech123"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Clifftech123&stroke=0f172a&background=ffffff&ring=ef4444&fire=ef4444&currStreakNum=0f172a&currStreakLabel=ef4444&sideNums=0f172a&sideLabels=0f172a&dates=0f172a&hide_border=true" /></a>
 
