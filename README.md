@@ -14,10 +14,7 @@ I am also a Scrum master and an AWS cloud developer, i manage projects and also 
 * 🤝  I'm open to collaborating on Any Project
 * ⚡  I'm passionate about solving problems
 
-<a href="https://www.github.com/iamcodepreacher" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/iamcodepreacher?logo=github&style=for-the-badge&color=0891b2&labelColor=ffffff" /></a><a href="https://www.twitter.com/iamcodepreacher" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/iamcodepreacher?logo=twitter&style=for-the-badge&color=0891b2&labelColor=ffffff"
-/></a>
+
 
 ### Skills
 
