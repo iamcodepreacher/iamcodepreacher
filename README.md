@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Peter Samuel Oche (Code Preacher)
 =============================================================================================================================================
 
-Software Developer | Scrum Master | AWS Cloud Developer
+Software Developer | Scrum Master | AWS Cloud Developer | Online Tutor
 --------------------------------------------
 
 I am a software developer with expertise as a fullstack developer. I have a strong understanding of web development and am able to build efficient and scalable full-stack applications. I am highly motivated and continually seeking to improve my skills and stay current with the latest technologies.
