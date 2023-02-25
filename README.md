@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Developer | Scrum Master | AWS Cloud Developer
 --------------------------------------------
 
-I am a software developer with expertise with experience as a fullstack developer. I have a strong understanding of web development and am able to build efficient and scalable full-stack applications. I am highly motivated and continually seeking to improve my skills and stay current with the latest technologies.
+I am a software developer with expertise as a fullstack developer. I have a strong understanding of web development and am able to build efficient and scalable full-stack applications. I am highly motivated and continually seeking to improve my skills and stay current with the latest technologies.
 
 I am also a Scrum master and an AWS cloud developer, i manage projects and also deploy projects on cloud, using several infastructures and plaforms. I Teach all computer science related courses online as an online tutor. 
 
